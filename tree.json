@@ -1,0 +1,149 @@
+createdAt: 1692883186752
+writingStyle: genZ
+analysis: outcomes
+decision: >-
+  levar odiretorcriativo a ser e-commerce onde vendo meus serviços em forma de
+  pacotes tendo facilidades como diversas formas de pagamento; Nele sou uma
+  agência de publicidade, estúdio de design, desenvolvedor de soluções
+  criativas, contextualizadas e automatizadas
+decisionUserQuery: >-
+  levar odiretorcriativo a ser e-commerce onde vendo meus serviços em forma de
+  pacotes tendo facilidades como diversas formas de pagamento; Nele sou uma
+  agência de publicidade, estúdio de design, desenvolvedor de soluções
+  criativas, contextualizadas e automatizadas
+pros: {}M
+cons: {}
+strengths: {}
+weaknesses: {}
+opportunities: {}
+threats: {}
+keyResults:
+  - children:
+      - children:
+          - children: []
+            label: Sua empresa experimenta aumento de vendas e lucros
+            sentiment: P
+          - children: []
+            label: Sua marca ganha visibilidade e reconhecimento
+            sentiment: P
+          - children: []
+            label: Sua família está orgulhosa de sua perspicácia empresarial
+            sentiment: P
+        label: Você ganha um novo caminho para alcançar os clientes
+        sentiment: P
+      - children:
+          - children: []
+            label: As campanhas publicitárias não repercutem entre os clientes
+            sentiment: 'N'
+          - children: []
+            label: Há um declínio no tráfego da web
+            sentiment: 'N'
+          - children: []
+            label: Sua empresa sofre com o marketing ruim
+            sentiment: 'N'
+        label: >-
+          Pode haver falha de comunicação devido à sua falta de conhecimento em
+          publicidade
+        sentiment: 'N'
+      - children:
+          - children: []
+            label: A equipe consegue melhorar a presença online
+            sentiment: P
+          - children: []
+            label: O site torna-se um empreendimento de sucesso
+            sentiment: P
+          - children: []
+            label: Sua família agradece sua decisão de investir em profissionais
+            sentiment: P
+        label: >-
+          Você contrata uma equipe de profissionais para lidar com o aspecto
+          digital
+        sentiment: P
+    label: A plataforma de e-commerce impulsiona com sucesso o seu negócio
+    sentiment: P
+  - children:
+      - children:
+          - children: []
+            label: O design do site não envolve os clientes
+            sentiment: 'N'
+          - children: []
+            label: O gateway de pagamento muitas vezes falha
+            sentiment: 'N'
+          - children: []
+            label: Sua família está preocupada com o negócio
+            sentiment: 'N'
+        label: Há um atraso na configuração da plataforma
+        sentiment: 'N'
+      - children:
+          - children: []
+            label: A luta inicial compensa com vendas estáveis
+            sentiment: P
+          - children: []
+            label: Os clientes apreciam o seu esforço
+            sentiment: P
+          - children: []
+            label: Sua família é inspirada por sua determinação
+            sentiment: P
+        label: 'Apesar dos obstáculos, você persevera e o site é lançado'
+        sentiment: P
+      - children:
+          - children: []
+            label: Os especialistas fazem as alterações necessárias no site
+            sentiment: U
+          - children: []
+            label: O negócio vai se recuperando aos poucos
+            sentiment: U
+          - children: []
+            label: Sua família está aliviada ao ver o progresso
+            sentiment: U
+        label: >-
+          Erros levam ao aprendizado e você traz especialistas para lidar com os
+          aspectos técnicos
+        sentiment: U
+    label: O empreendimento de e-commerce enfrenta desafios
+    sentiment: 'N'
+  - children:
+      - children:
+          - children: []
+            label: Sua empresa não tem uma renda online estável
+            sentiment: U
+          - children: []
+            label: Você experimenta várias estratégias para aumentar o tráfego
+            sentiment: U
+          - children: []
+            label: >-
+              Sua família está insegura sobre o sucesso do empreendimento de
+              e-commerce
+            sentiment: U
+        label: O site recebe tráfego e vendas flutuantes
+        sentiment: U
+      - children:
+          - children: []
+            label: O empreendimento de e-commerce é suspenso
+            sentiment: U
+          - children: []
+            label: Sua empresa opera como costumava
+            sentiment: U
+          - children: []
+            label: Sua família apoia sua decisão
+            sentiment: U
+        label: Você decide manter os métodos tradicionais de venda
+        sentiment: U
+      - children:
+          - children: []
+            label: Você continua aprendendo sobre marketing digital
+            sentiment: U
+          - children: []
+            label: O empreendimento abre novas portas para o seu negócio
+            sentiment: U
+          - children: []
+            label: Sua família admira sua disposição para se adaptar a novos cenários
+            sentiment: P
+        label: >-
+          Você abre seu negócio para novas possibilidades, independentemente do
+          resultado
+        sentiment: P
+    label: O sucesso do empreendimento é imprevisível
+    sentiment: U
+keyResultsConclusion: ''
+keyResultsBestChoice: ''
