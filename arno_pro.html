@@ -13,20 +13,36 @@
             font-weight: 700;
             font-stretch: normal;
         }
-
+        @font-face {
+            font-family: "protipo-wide";
+            src: url("https://use.typekit.net/af/0ef0d2/00000000000000007735b72a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),
+                url("https://use.typekit.net/af/0ef0d2/00000000000000007735b72a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),
+                url("https://use.typekit.net/af/0ef0d2/00000000000000007735b72a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+            font-display: auto;
+            font-style: normal;
+            font-weight: 300;
+            font-stretch: normal;
+}
         .tk-arno-pro-caption {
             font-family: "arno-pro-caption", serif;
         }
-
+        .tk-protipo-wide { 
+            font-family: "protipo-wide", sans-serif; }
+        
         /* Aplicar a fonte personalizada aos cabeçalhos */
-        h1, h2, h3 {
+       .notion-frame .notion-page-block .notion-header-block .notion-selectable h1,h2,h3 {
             font-family: "arno-pro-caption", serif;
         }
+        
+        /* Alterar a fonte do corpo do texto */
+        .notion-frame .notion-page-block .notion-text-block .notion-selectable {
+              font-family: "protipo-wide", sans-serif; }
     </style>
 </head>
 <body>
     <h1>Este é um título h1</h1>
     <h2>Este é um título h2</h2>
     <h3>Este é um título h3</h3>
+    <p>E SERá Ql q r</p>
 </body>
 </html>
