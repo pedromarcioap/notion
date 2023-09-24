@@ -1,0 +1,41 @@
+@import url("https://p.typekit.net/p.css?s=1&k=obl4rpk&ht=tk&f=8493.8497.14734.18257.18258.17977.17978.17980.17982.41691.41693.41694.41699.41702.41727.41729.41731.41734.41737&a=1865996&app=typekit&e=css");
+
+@font-face {
+    font-family: "arno-pro-caption";
+    src: url("https://use.typekit.net/af/8fd5ec/00000000000000000001742f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),
+         url("https://use.typekit.net/af/8fd5ec/00000000000000000001742f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),
+         url("https://use.typekit.net/af/8fd5ec/00000000000000000001742f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 700;
+    font-stretch: normal;
+    }
+
+@font-face {
+    font-family: "protipo-wide";
+    src: url("https://use.typekit.net/af/0ef0d2/00000000000000007735b72a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),
+         url("https://use.typekit.net/af/0ef0d2/00000000000000007735b72a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),
+         url("https://use.typekit.net/af/0ef0d2/00000000000000007735b72a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 300;
+    font-stretch: normal;
+}
+
+.tk-arno-pro-caption {
+    font-family: "arno-pro-caption", serif;
+}
+
+.tk-protipo-wide { 
+    font-family: "protipo-wide", sans-serif; 
+}
+        
+/* Aplicar a fonte personalizada aos cabeçalhos */
+.notion-frame .notion-page-block .notion-header-block .notion-selectable h1,h2,h3 {
+    font-family: "arno-pro-caption", serif;
+}
+        
+/* Alterar a fonte do corpo do texto */
+.notion-frame .notion-page-block .notion-text-block .notion-selectable {
+    font-family: protipo-wide, sans-serif; font-weight: 300; font-style: normal;
+}
